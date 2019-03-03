@@ -1,0 +1,4 @@
+input[class^="tfc_"] {
+  font-family: monospace;
+  margin-bottom: 5px;
+}
