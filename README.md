@@ -1,4 +1,4 @@
-Requieres JQuery in order to work.
+Requires JQuery in order to work.
 
 # Time formatter & calculator
     Time formatter & calculator auto-formats time values in an input field.
