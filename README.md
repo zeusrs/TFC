@@ -1,5 +1,10 @@
 Requieres JQuery in order to work.
 
+# Time formatter & calculator
+    Time formatter & calculator auto-formats time values in an input field.
+    Formats according to pairs of digits separated by colons pattern.
+    It allows to use this input as a calculator.
+
 # Getting started
     TFC can manages time format and calculation of different time fractions from hours to frames per second.
     Starting from hours you can choose the last time fraction you want to include.
@@ -14,12 +19,6 @@ Requieres JQuery in order to work.
     tfc_d6
     tfc_d8_f25
     tfc_d8_f30
-    
-
-# Time formatter & calculator
-    Time formatter & calculator auto-formats time values in an input field.
-    Formats according to pairs of digits separated by colons pattern.
-    It allows to use this input as a calculator.
 
 # Instructions:
     ADD & SUBSTRACT: select operator.
