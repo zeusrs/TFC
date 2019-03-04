@@ -1,3 +1,21 @@
+Requieres JQuery in order to work.
+
+# Getting started
+    TFC can manages time format and calculation of different time fractions from hours to frames per second.
+    Starting from hours you can choose the last time fraction you want to include.
+    You can declare this with an even amount of digits from 4 to 8.
+    Just need an input with an unespecific ID and a tfc class that works as follows:
+        Generic: tfc_
+        Especific (digits): d_digits
+        Especific (fps): f_fps
+        
+# Examples
+    tfc_d4
+    tfc_d6
+    tfc_d8_f25
+    tfc_d8_f30
+    
+
 # Time formatter & calculator
     Time formatter & calculator auto-formats time values in an input field.
     Formats according to pairs of digits separated by colons pattern.
