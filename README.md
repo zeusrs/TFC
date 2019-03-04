@@ -1,6 +1,6 @@
 Requires JQuery in order to work.
 
-# Time formatter & calculator
+# Time formatter and calculator
     Time formatter & calculator auto-formats time values in an input field.
     Formats according to pairs of digits separated by colons pattern.
     It allows to use this input as a calculator.
