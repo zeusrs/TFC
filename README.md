@@ -1,4 +1,5 @@
-Requires JQuery in order to work.
+# Requirements
+    JQuery
 
 # Time formatter and calculator
     Time formatter and calculator auto-formats time values in an input field.
@@ -29,4 +30,4 @@ Requires JQuery in order to work.
     BACKSPACE: remove last digit.
     SUPR: set current and initial value to 00.
     ALT + ENTER: set value to current time (only 4 or 6 digits).
-    CTRL + Z: go back to previous values. Deletes actual value.
+    CTRL + Z: go back to previous values. Deletes actual value.# 
