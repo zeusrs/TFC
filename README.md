@@ -11,8 +11,8 @@
     Starting from hours you can choose the last time fraction you want to include.
     You can declare this with an even amount of digits from 4 to 8.
     Just need an input with an unespecific ID and a tfc class that works as follows: tfc_digits_fps
-        To decalre digits: d + digits amount
-        To decalre fps: f + fps amount
+        To declare digits: d + digits amount
+        To declare fps: f + fps amount
         
 # Examples
     tfc_d4
