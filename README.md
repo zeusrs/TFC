@@ -14,11 +14,10 @@
         To declare digits: d + digits amount
         To declare fps: f + fps amount
         
-# Examples
-    tfc_d4
-    tfc_d6
-    tfc_d8_f25
-    tfc_d8_f30
+    - Examples:     tfc_d4
+                    tfc_d6
+                    tfc_d8_f25
+                    tfc_d8_f30
 
 # Instructions:
     ADD & SUBSTRACT: select operator.
